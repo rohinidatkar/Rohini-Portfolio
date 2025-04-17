@@ -7,7 +7,7 @@ Welcome to my portfolio! I am an aspiring Data Analyst with a strong interest in
 - Bachelor of Engineering in Electronics and Telecommunication
 
 ## 💼 Internship Experience
-- Data Science and Machine Learning Intern at Sabudh Foundation (Jan 2025 - June 2025)
+- Data Science and Machine Learning Professional certification program UpGrad
 - Hands-on experience with data preprocessing, visualization, model building, and evaluation
 
 ## 🔧 Technical Skills
